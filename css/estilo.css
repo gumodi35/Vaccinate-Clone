@@ -275,22 +275,22 @@ section ul li img{
 	}
 	
 #bottom ul li ul li:first-child{
-	background:url(/img/logofacebookblack.png);
+	background:url(/Vaccinate-Clone/img/logofacebookblack.png);
 	background-size:cover;
 	}
 	
 #bottom ul li ul li:nth-child(2){
-	background:url(/img/insta.png);
+	background:url(/Vaccinate-Clone/img/insta.png);
 	background-size:cover;
 	}
 	
 #bottom ul li ul li:nth-child(3){
-	background:url(/img/github.png);
+	background:url(/Vaccinate-Clone/img/github.png);
 	background-size:cover;
 	}
 	
 #bottom ul li ul li:last-child{
-	background:url(/img/linkedin.png);
+	background:url(/Vaccinate-Clone/img/linkedin.png);
 	background-size:cover;
 	}
 	
