@@ -243,7 +243,7 @@ section ul li img{
 	list-style:inside;
 	font-size:15px;
 	color:white;
-	list-style-image:url(../Vaccinate-Clone/img/list.png);
+	list-style-image:url(../img/list.png);
 	}
 	
 #bottom ul li img{
@@ -253,7 +253,7 @@ section ul li img{
 	width:95px;
 	height:95px;
 	border:4px solid white;
-	background:url(../Vaccinate-Clone/img/pandemio.jpg);
+	background:url(../img/pandemio.jpg);
 	background-size:cover;
 	}
 	
@@ -275,22 +275,22 @@ section ul li img{
 	}
 	
 #bottom ul li ul li:first-child{
-	background:url(../Vaccinate-Clone/img/logofacebookblack.png);
+	background:url(../img/logofacebookblack.png);
 	background-size:cover;
 	}
 	
 #bottom ul li ul li:nth-child(2){
-	background:url(../Vaccinate-Clone/img/insta.png);
+	background:url(../img/insta.png);
 	background-size:cover;
 	}
 	
 #bottom ul li ul li:nth-child(3){
-	background:url(../Vaccinate-Clone/img/github.png);
+	background:url(../img/github.png);
 	background-size:cover;
 	}
 	
 #bottom ul li ul li:last-child{
-	background:url(../Vaccinate-Clone/img/linkedin.png);
+	background:url(../img/linkedin.png);
 	background-size:cover;
 	}
 	
